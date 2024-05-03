@@ -4,6 +4,7 @@
 
 https://github.com/laravel/breeze-next
 is so great. This repository of mine is where I converted the js file to typescript.
+I tested it using Laravel 11.6.0 as the backend environment.
 Below is the original introduction.
 
 This repository is an implementation of the [Laravel Breeze](https://laravel.com/docs/starter-kits) application / authentication starter kit frontend in [Next.js](https://nextjs.org). All of the authentication boilerplate is already written for you - powered by [Laravel Sanctum](https://laravel.com/docs/sanctum), allowing you to quickly begin pairing your beautiful Next.js frontend with a powerful Laravel backend.
